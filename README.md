@@ -34,10 +34,14 @@ Presentation Layer → Servlet Layer → Database Layer
 ## Screenshots
 
 ### Login Page
-![Login](screenshots/login-page.png)
+![Login]
+<img width="1897" height="837" alt="Login Page" src="https://github.com/user-attachments/assets/92b80bdb-2517-48ec-a449-72ec7b0c7099" />
+
 
 ### Admin Dashboard
-![Admin](screenshots/admin-dashboard.png)
+![Admin]
+<img width="1900" height="883" alt="Admin dashboard" src="https://github.com/user-attachments/assets/1b313809-81b4-40f7-8f66-d84788b36d8b" />
+
 
 ## Author
 Raj Singh
